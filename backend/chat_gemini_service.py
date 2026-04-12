@@ -1,4 +1,3 @@
-"""Gemini multi-turn chat with optional PDF/image attachment (medical assistant context)."""
 from __future__ import annotations
 
 import os

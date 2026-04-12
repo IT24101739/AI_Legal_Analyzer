@@ -15,7 +15,6 @@ const AIAvatar = () => (
     ✦
   </div>
 );
-
 const markdownComponents = {
   p: ({ children }) => <p className="mb-2 last:mb-0 leading-relaxed">{children}</p>,
   strong: ({ children }) => <strong className="font-semibold text-gray-900 dark:text-white">{children}</strong>,
