@@ -21,7 +21,6 @@ NON_MEDICAL_RESPONSE = (
     "✅ Please upload a **valid medical document or image** and I'll be happy to help you "
     "understand it and answer any health-related questions! 😊"
 )
-
 _SYSTEM_INSTRUCTION = (
     "You are an AI medical assistant that ONLY helps with medical and health-related documents and questions.\n\n"
     "IMPORTANT RULE — When the user uploads a file:\n"
